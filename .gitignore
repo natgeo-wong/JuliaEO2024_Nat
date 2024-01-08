@@ -8,7 +8,7 @@ videos
 plots
 notebooks/*.png
 _research
-/Manifest.toml
+# /Manifest.toml
 logs/
 references/**/*.pdf
 run/
